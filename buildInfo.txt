@@ -1,2 +1,4 @@
 Mod version: v0.1.0
 Game version: 1.37.0
+
+Uses: Window v1.0.0
