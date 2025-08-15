@@ -1,6 +1,8 @@
 Create window
 
 Add banner
+Add description
 
 Add red button
 Add green button
+Add blue button
