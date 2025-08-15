@@ -12,6 +12,17 @@ New version is released
 * Commit
 * Commit
 * Switch to version branch
-* `git merge main --no-commit --no-ff` (Merge but stop before commit and don't allow fast forward)
-* `git restore --source main -- buildFiles.\*`
-* Commit merge (Maybe with message of "source merge" rather than "merge")
+* Source merge
+* 	`git merge main --no-commit --no-ff` (Merge but stop before commit and don't allow fast forward)
+* 	`git restore --source HEAD -- buildFiles.\*`
+* 	Commit merge (Maybe with message of "source merge" rather than "merge")
+
+Compiler option for version is needed
+
+* Switch to main branch
+* Add BUILD_FOR_MAIN
+* Commit
+* Switch to version branch
+* Source merge
+* Add BUILD_FOR_VERSION
+* Commit
