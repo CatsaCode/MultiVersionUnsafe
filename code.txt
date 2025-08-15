@@ -1,1 +1,3 @@
 Create window
+
+Add red button
