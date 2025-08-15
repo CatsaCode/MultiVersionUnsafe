@@ -23,6 +23,15 @@ Compiler option for version is needed
 * Add BUILD_FOR_MAIN
 * Commit
 * Switch to version branch
-* Source merge
+* Source merge from main branch
 * Add BUILD_FOR_VERSION
 * Commit
+
+Need to update from version branch
+
+* Switch to version branch
+* Commit
+* Commit
+* Commit
+* Switch to main branch
+* Source merge from version branch
