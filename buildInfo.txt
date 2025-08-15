@@ -2,3 +2,5 @@ Mod version: v0.1.0
 Game version: 1.40.8
 
 Uses: Window v1.1.0
+
+Define BUILD_FOR_1.40.8
