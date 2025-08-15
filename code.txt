@@ -1,4 +1,6 @@
 Create window
 
+Add banner
+
 Add red button
 Add green button
