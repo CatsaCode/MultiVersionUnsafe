@@ -13,3 +13,5 @@ Add "Version: 1.37.0" text
 #else
 Add "Version: 1.40.8" text
 #endif
+
+Add exit button
