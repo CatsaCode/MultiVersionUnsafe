@@ -7,3 +7,9 @@ Add red button
 Add green button
 Add blue button
 Add square button
+
+#ifdef BUILD_FOR_1.37.0
+Add "Version: 1.37.0" text
+#else
+Add "Version: 1.40.8" text
+#endif
