@@ -10,6 +10,7 @@ Add square button
 Add rectangle button
 
 Find "Wow!" object
+Find "cool" object
 
 #ifdef BUILD_FOR_1.37.0
 Add "Version: 1.37.0" text
